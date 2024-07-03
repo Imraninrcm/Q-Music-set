@@ -38,7 +38,7 @@ let allMusic = [
   {
     name: "Phir Aur Kay Chahiye",
     artist: "Amitabh Bhattacharya",
-    img: "images/Phir aur Kay Chajiye.jpg",
+    img: "images/Phir aur Kay Chahiye.jpg",
     src: "songs/Phir-Aur-kay-Chahiye.mp3",
   },
   {
