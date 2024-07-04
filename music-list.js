@@ -19,7 +19,7 @@ let allMusic = [
   },
   {
     name: "Ik Lamha",
-    artist: "Azaan Sasmi Khan",
+    artist: "Azaan Sami Khan",
     img: "images/IkLamha.jpg",
     src: "songs/IkLamha.mp3",
   },
@@ -38,7 +38,7 @@ let allMusic = [
   {
     name: "Phir Aur Kay Chahiye",
     artist: "Amitabh Bhattacharya",
-    img: "images/PhirAurKayChahiye.jpg",
+    img: "images/PhirAurKayChahiye.jpg",  
     src: "songs/PhirAurKayChahiye.mp3",
   },
   {
