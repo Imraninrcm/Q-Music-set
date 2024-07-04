@@ -47,4 +47,10 @@ let allMusic = [
     img: "images/TuJoMila.jpg",
     src: "songs/TuJoMila.mp3",
   },
+  {
+    name: "Tere Bin",
+    artist: "Azaan Sami Khan",
+    img: "images/tereBin.jpg",
+    src: "songs/Hum-Kahke-sachhe-thay.mp3",
+  },
 ];
