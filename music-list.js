@@ -53,4 +53,10 @@ let allMusic = [
     img: "images/tereBin.jpg",
     src: "songs/Hum-Kahke-sachhe-thay.mp3",
   },
+  {
+    name: "Kun Faya Kun",
+    artist: "Irshad Kamil",
+    img: "images/Kun Faya Kun.jpg",
+    src: "songs/Kun Faya Kun.mp3",
+  },
 ];
