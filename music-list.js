@@ -62,8 +62,8 @@ let allMusic = [
   {
     name: "Ya Tal3een",
     artist: "Dana Salah",
-    img: "images/Dana_Salah_Ya_Tal3een.mp3.jpg",
-    src: "songs/Dana_Salah_Ya_Tal3een.mp3.mp3",
+    img: "images/Dana_Salah_Ya_Tal3een.jpg",
+    src: "songs/Dana_Salah_Ya_Tal3een.mp3",
   }
   
 ];
